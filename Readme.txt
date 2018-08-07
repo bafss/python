@@ -1,1 +1,1 @@
-[an example](http://example.com/ "Title")
+[点击这里你可以链接到www.google.com](http://www.google.com)
