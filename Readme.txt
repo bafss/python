@@ -1,1 +1,1 @@
-<a href=""></a>
+[an example](http://example.com/ "Title")
