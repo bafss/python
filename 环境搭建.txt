@@ -1,0 +1,12 @@
+安装python3
+export LANG=en_US.UTF-8
+wget https://www.python.org/ftp/python/3.5.4/Python-3.5.4.tgz
+tar zxvf Python-3.5.4.tgz
+mv Python-3.5.4 python3.5
+./configure --prefix=/usr/local/python3
+make
+make install
+./bin/pip3 install requests
+/usr/local/python3/bin/pip3.5 install flask
+/usr/bin/python3.5  tencent_http.py
+git提交到远程使用远程的解释器
